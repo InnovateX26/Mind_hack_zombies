@@ -2,9 +2,9 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "YOUR_KEY",
-  authDomain: "YOUR_DOMAIN",
-  projectId: "YOUR_ID",
+  apiKey:"AIzaSyAiL6soTy0x4_IT54IQwkbYSPo-5GMrFlI",
+  authDomain: "ai-interview-simulator-af8b4.firebaseapp.com",
+  projectId:"ai-interview-simulator-af8b4",
 };
 
 const app = initializeApp(firebaseConfig);

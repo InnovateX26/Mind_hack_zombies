@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import axios from "axios"
 import { ServerUrl } from '../utils/App';
-import Step3Report from '../components/Step3Report';
+import Step3Report from '../components/Step3timer';
 function InterviewReport() {
     const { id } = useParams()
     const [report, setReport] = useState(null);

@@ -11,7 +11,7 @@ import InterviewHistory from '../pages/Interviewhistroy'
 import Pricing from '../pages/pricing'
 import InterviewReport from '../pages/InterviewReport'
 
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "http://localhost:5000";
 
 function App() {
 
